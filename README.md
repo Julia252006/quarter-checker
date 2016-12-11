@@ -40,3 +40,5 @@
        print('Point is in all QUARTER');
   }
 ```
+
+Project published: https://julia252006.github.io/quarter-checker/
